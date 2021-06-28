@@ -139,6 +139,10 @@ const init = function () {
 };
 init();
 
+console.log('Welcome to the application');
+console.log('Welcome to the application');
+console.log('Welcome to the application');
+
 //
 //
 //
